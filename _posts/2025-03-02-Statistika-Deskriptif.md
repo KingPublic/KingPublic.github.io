@@ -6,7 +6,7 @@ categories: [Statistika, Dasar]
 tags: [statistika deskriptif, mean, median, modus]
 math: true
 image:
-  path: /assets/img/descriptive-stats.jpg
+  path: /assets/img/statistika.jpg
   alt: Statistika Deskriptif
 ---
 

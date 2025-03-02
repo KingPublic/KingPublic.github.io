@@ -5,7 +5,7 @@ date: 2025-03-02 22:41:00 +0800
 categories: [Praktikum, R]
 tags: [r programming, instalasi, statistika deskriptif]
 image:
-  path: /assets/img/r-programming.jpg
+  path: /assets/img/R_logo.png
   alt: R Programming
 ---
 
