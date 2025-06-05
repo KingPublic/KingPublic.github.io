@@ -5,7 +5,9 @@ date: 2025-05-22 10:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [hipotesis, statistika inferensial, populasi, sampel, uji statistik]
 math: true
-
+image:
+  path: /assets/img/ujihipotesis.png 
+  alt: Pengantar Pengujian Hipotesis
 ---
 
 Pengujian hipotesis adalah jantung dari statistika inferensial, memungkinkan kita membuat kesimpulan tentang populasi berdasarkan data sampel. Mari kita pahami konsep-konsep dasarnya.
@@ -21,9 +23,6 @@ Kumpulan **seluruh elemen** yang menjadi objek kajian. Populasi bisa berupa oran
 ### Sampel
 **Bagian dari populasi** yang digunakan untuk mewakili populasi. Sampel diambil secara acak (random) atau berdasarkan kriteria tertentu.
 *   **Contoh**: 50 mahasiswa dari jurusan Ilmu Komputer di Universitas Ciputra Makassar.
-
-
-*Gambar: Ilustrasi Populasi dan Sampel*
 
 ### Kenapa Menggunakan Sampel?
 Mengamati seluruh populasi seringkali membutuhkan waktu, biaya, dan tenaga yang sangat besar. Sampel memungkinkan kita melakukan analisis yang lebih efisien namun tetap cukup akurat untuk membuat inferensi tentang populasi.
