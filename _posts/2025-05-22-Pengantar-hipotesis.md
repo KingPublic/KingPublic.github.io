@@ -6,7 +6,7 @@ categories: [Statistika, Dasar]
 tags: [hipotesis, statistika inferensial, populasi, sampel, uji statistik]
 math: true
 image:
-  path: /assets/img/hypothesis-testing-intro.jpg # Ganti dengan path gambar yang sesuai
+#   path: /assets/img/hypothesis-testing-intro.jpg # Ganti dengan path gambar yang sesuai
   alt: Pengantar Pengujian Hipotesis
 ---
 
