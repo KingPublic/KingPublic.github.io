@@ -24,7 +24,7 @@ Kumpulan **seluruh elemen** yang menjadi objek kajian. Populasi bisa berupa oran
 **Bagian dari populasi** yang digunakan untuk mewakili populasi. Sampel diambil secara acak (random) atau berdasarkan kriteria tertentu.
 *   **Contoh**: 50 mahasiswa dari jurusan Ilmu Komputer di Universitas Ciputra Makassar.
 
-![Populasi dan Sampel](/assets/img/population-sample-diagram.png) <!-- Ganti dengan path gambar yang sesuai -->
+<!-- ![Populasi dan Sampel](/assets/img/population-sample-diagram.png) Ganti dengan path gambar yang sesuai -->
 *Gambar: Ilustrasi Populasi dan Sampel*
 
 ### Kenapa Menggunakan Sampel?
